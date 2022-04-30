@@ -1,4 +1,8 @@
-# Landing-Project
-Just Practice
+This is the Readme.md file for the Landing Project. This is just to practice what I have learned so far with the Odin Project. 
 
-This is an exercise to practice what I have learned so far with Odin Project
+Picture credits: 
+- Beach: Jermaine Ulinwa, Pexels
+- Check in: Helena Lopes, Pexels
+- Hotel Room: Pixabay, Pexels
+- Restaurant: Quark studio, Pexels
+- Swimming Pool: Thorsten technoman, Pexels
