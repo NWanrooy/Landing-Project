@@ -1,0 +1,168 @@
+body {
+    font-family: hero, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    background-color:#1F2937;
+    justify-content:space-between;
+    padding: 20px 100px;
+}
+
+.logo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: #f9faf8;
+    
+}
+
+ul{
+    display:flex;
+    list-style:none;
+    gap: 24px;
+}
+
+li{
+    color:#e5e7eb;
+    font-size: 18px;
+
+}
+
+.section_one{
+    background-color: #1F2937;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 100px;
+    gap: 24px;
+
+}
+
+h1{
+    font-size: 48px;
+    font-weight:bolder;
+    color:#f9faf8;
+    
+}
+
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 16px;   
+    
+}
+
+.section_one_img img{
+    width: 450px;
+    height: auto;
+
+}
+
+button{
+    color:#f9faf8;
+    background-color: #3882f6;
+    font-weight:900px;
+    font-size: 18px;
+    padding: 8px 48px;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+
+    
+}
+
+.section_two{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 150px;
+    
+}
+
+h3{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+img{
+    max-width: 350px;
+    height: 250px;
+
+}
+
+.card_container{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.box{
+    width: 350px;
+}
+
+.text{
+    color:#1F2937;
+    margin-top: 18px;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.section_three{
+    background-color: #E5E7EB;
+    padding: 48px 400px;
+}
+
+.quote{
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+    
+}
+
+.quoter{
+    color:#1F2937;
+    font-weight: 900;
+    text-align: right;
+}
+
+.section_four{
+    padding: 48px 100px;
+}
+
+.sign_in_rectangle{
+
+    background-color: #3882f6;
+    color:#e5e7eb;
+    border-radius: 4px;
+    padding: 18px 48px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bold_text{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.light_text{
+    font-size: 12px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.footer{
+ 
+    display: flex;
+    background-color:#1F2937;
+    color:#e5e7eb;
+    justify-content:center;
+    padding: 20px 100px;
+}
